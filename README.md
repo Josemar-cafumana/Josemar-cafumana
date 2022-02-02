@@ -2,7 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemar-cafumana-web-developer/)
 
-![Josemar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josemar-cafumana&show_icons=true&theme=one-dark)
 
 
 
