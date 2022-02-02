@@ -1,9 +1,10 @@
 ## Olá! Eu sou o Josemar Cafumana 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemar-cafumana-web-developer/)
-
-
-
+<div align="start">
+  <a href="https://github.com/Josemar-cafumana">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Josemar-cafumana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josemar-cafumana&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 ## Tecnologias
